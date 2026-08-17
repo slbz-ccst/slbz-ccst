@@ -10,7 +10,7 @@ Soy un estudiante autodidacta de Ciberseguridad, actualmente estudiando y prepar
 ![Rust](https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=for-the-badge&logo=&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FCC624.svg?style=for-the-badge&logo=&logoColor=black)
 ![Splunk](https://img.shields.io/badge/Splunk-%236DB33F.svg?style=for-the-badge&logo=&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tacer-%2320232a.svg?style=for-the-badge&logo=&logoColor=%2361DAFB)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-%2320232a.svg?style=for-the-badge&logo=&logoColor=%2361DAFB)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%3B64FA.svg?style=for-the-badge&logo=&logoColor=#3B64FA)
 <!--
 **slbz-ccst/slbz-ccst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
