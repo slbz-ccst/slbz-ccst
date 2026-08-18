@@ -1,7 +1,7 @@
 # 🇦🇷 Samuel Bourgez
 ####  🛡 **`Junior Cybersecurity Analyst`**
 
-Soy un estudiante autodidacta de Ciberseguridad, actualmente estudiando y preparandome para certificarme como Tecnico en Soporte Certificado por CISCO (CCST). 
+Soy un estudiante autodidacta de Ciberseguridad, actualmente estudiando y preparandome para certificarme como Tecnico en Soporte Certificado por CISCO (CCST Cybersecurity). 
 
 ###### Entusiasta de la Seguridad Ofensiva y futuro Red Teamer. 
 #
